@@ -1,0 +1,6 @@
+{
+  "name": "Hello, world",
+  "description": "The smallest possible experiment: one HTML file. Copy it to start something new.",
+  "type": "static",
+  "tags": ["example"]
+}

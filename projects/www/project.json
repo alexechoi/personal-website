@@ -1,0 +1,7 @@
+{
+  "name": "Homepage",
+  "description": "The personal site at the root domain. Lists every other project.",
+  "type": "static",
+  "build": "../../scripts/build-index.sh > projects.json",
+  "hidden": true
+}

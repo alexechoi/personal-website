@@ -1,0 +1,6 @@
+{
+  "name": "__SLUG__",
+  "description": "A new Node.js experiment.",
+  "type": "service",
+  "tags": ["node"]
+}

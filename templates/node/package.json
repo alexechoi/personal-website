@@ -1,0 +1,8 @@
+{
+  "name": "__SLUG__",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

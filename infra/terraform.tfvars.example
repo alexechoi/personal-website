@@ -1,0 +1,8 @@
+# Copy to terraform.tfvars and fill in. Keep these in sync with ../config.env.
+project_id  = "my-experiments-project"
+region      = "europe-west2"
+github_repo = "alexechoi/personal-website"
+
+# Optional: serve everything from your own domain.
+# domain           = "example.com"
+# dns_managed_zone = "example-com" # only if the domain's DNS lives in Cloud DNS

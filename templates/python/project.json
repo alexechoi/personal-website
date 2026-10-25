@@ -1,0 +1,6 @@
+{
+  "name": "__SLUG__",
+  "description": "A new Python experiment.",
+  "type": "service",
+  "tags": ["python"]
+}

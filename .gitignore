@@ -1,0 +1,16 @@
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+dist/
+.DS_Store
+
+# Generated at deploy time by scripts/build-index.sh
+projects/www/projects.json
+
+# Terraform
+infra/.terraform/
+infra/*.tfstate
+infra/*.tfstate.*
+infra/terraform.tfvars
+infra/.terraform.lock.hcl
